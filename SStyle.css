@@ -1,0 +1,33 @@
+body {
+    background-image: url("nsky.png"); 
+  }
+
+  img {
+    border: 5px solid #ffffff;
+  }
+  
+  body {
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 0.1px black;
+  }
+  
+  h1 {
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 0.5px black;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+
+  h1 {
+    color: cyan;
+  }
+
+  h2{
+    color: blue;
+  }
+
+  h2 {
+    -webkit-text-stroke: 0.3px white;
+  }
